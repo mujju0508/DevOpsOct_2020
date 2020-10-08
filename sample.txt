@@ -1,0 +1,2 @@
+this is sample file from master branch
+added new line in file
