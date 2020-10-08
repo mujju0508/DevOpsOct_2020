@@ -1,4 +1,4 @@
 this is sample file from master branch
 added new line in file
-added new line for testing from working directroy branch
+added new line for testing from working directroy branch from current branch
 
