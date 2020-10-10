@@ -1,3 +1,4 @@
 this is file1 in workingDirectory
 one line added in the file
+added new line
 
